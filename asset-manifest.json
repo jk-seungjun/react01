@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react01/static/css/main.76949d28.css",
+    "main.js": "/react01/static/js/main.978f35e0.js",
+    "static/js/453.35fe2fe0.chunk.js": "/react01/static/js/453.35fe2fe0.chunk.js",
+    "static/media/summersea.jpg": "/react01/static/media/summersea.c5a954beb406021129a7.jpg",
+    "index.html": "/react01/index.html",
+    "main.76949d28.css.map": "/react01/static/css/main.76949d28.css.map",
+    "main.978f35e0.js.map": "/react01/static/js/main.978f35e0.js.map",
+    "453.35fe2fe0.chunk.js.map": "/react01/static/js/453.35fe2fe0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76949d28.css",
+    "static/js/main.978f35e0.js"
+  ]
+}
